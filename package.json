@@ -1,0 +1,38 @@
+{
+  "name": "formular",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^3.2.2",
+    "@material-ui/icons": "^3.0.1",
+    "@material-ui/lab": "^3.0.0-alpha.21",
+    "@react-pdf/renderer": "^1.0.0-alpha.18",
+    "axios": "^0.18.0",
+    "email-regex": "^3.0.0",
+    "email-validator": "^2.0.4",
+    "jspdf": "^1.4.1",
+    "material-ui-password-field": "^2.0.1",
+    "password-validator": "^4.1.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-form-with-constraints": "^0.10.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

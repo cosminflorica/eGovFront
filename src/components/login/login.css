@@ -1,0 +1,11 @@
+
+.container {
+    margin: 0 auto;
+    max-width: 40%;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    
+}
+.field  {
+    margin: 0 auto;
+}
